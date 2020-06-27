@@ -1,0 +1,136 @@
+@media(max-width: 1200px){
+    .banner-content h2 {
+        font-size: 55px !important;
+    }
+    .banner-content h1 {
+        font-size: 60px;
+    }
+    .banner img {
+        width: 80%;
+    }
+    .about {
+        padding-top: 50px;
+    }
+    p{
+        font-size: 18px;
+    }
+    .pro-bgImg {
+        height: 65vh;
+    }
+    .mt-5, .my-5 {
+        margin-top: 2rem!important;
+    }
+    .navbar a {
+        margin-right: 8px !important;
+    }
+    .about{
+        margin-bottom: 100px;
+    }
+    .project {
+        height: 85vh;
+    }
+    
+}
+
+
+
+
+@media(max-width: 991px ){
+    .navbar button {
+        text-align: left;
+    }
+    button img{
+        background: #ff7d6e;
+    padding: 5px 5px;
+    }
+    .navbar a {
+        color: #0c0c0c !important;
+        margin-top: 8px;
+    }
+    .banner-content h2 {
+        font-size: 35px !important;}
+        .banner-content h1 {
+            font-size: 40px;}
+            .banner img {
+                margin-top: 50px;
+                width: 95%;
+            }
+    .banner {
+        margin-bottom: 40px;
+    }     
+    h4 {
+        font-size: 35px;
+        line-height: 50px;}
+    .about-card2, .combo-card1 {
+            padding: 25px 20px;
+            margin: 10px 0px;}
+    h5 {
+                font-size: 14px;
+        } 
+    .pro-bgImg {
+            height: 48vh; 
+    }
+    p {
+        font-size: 14px;
+    }     
+    .main-btn {
+        padding: 8px 35px;
+    }
+    .contact .my-5 {
+        margin-top: -3rem!important;
+    }
+    .contact input {
+        padding: 30px 140px 30px 50px;
+    }
+    .contact {
+        height: 65vh;
+    }
+    .contact .py-5 {
+        padding-bottom: 0rem!important;
+    }
+    footer p, footer a {
+        font-size: 15px;
+    }
+}
+
+
+
+@media (max-width: 767px) {
+    .banner-content h2 {
+        font-size: 30px !important;
+    }
+    .banner-content h1 {
+        font-size: 35px;
+    }
+    .banner img {
+        margin-top: 10px;
+        width: 90%;
+    }
+    h4 {
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .pro-bgImg {
+        height: 55vh;
+    }
+    .clint{
+        margin-top: 200px;
+    }
+    .clint .pb-5{
+        padding-bottom: 0rem!important;
+    }
+    
+    .clint .mb-5 {
+        margin-bottom: 0rem!important;
+    }
+    .contact input {
+        padding: 25px 20px 25px 35px;
+        margin: 15px 20px;
+    }
+    footer .pb-5 {
+        padding-bottom: 0rem!important;
+    }
+    .main-btn {
+        padding: 6px 25px;
+    }
+}
